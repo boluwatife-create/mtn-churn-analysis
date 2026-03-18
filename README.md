@@ -9,16 +9,17 @@ This project analyzes customer data from Q1 2025 to uncover key drivers of churn
 
 The analysis was conducted using Microsoft Power BI, transforming raw data into actionable business insights through an interactive dashboard.
 
-🎯 Business Problem
+Business Problem:
 Telecommunication companies face significant financial losses due to customer churn.
 However, without proper analysis, it is difficult to answer:
-Why are customers leaving?
-Which customers are most at risk?
-Where is the business losing the most revenue?
+-Why are customers leaving?
+-Which customers are most at risk?
+-Where is the business losing the most revenue?
 
 This project addresses these gaps by identifying patterns, behaviors, and root causes of churn.
 
- Key Business Questions
+ Key Business Questions:
+ 
 This analysis answers the following critical questions:
 What is the overall customer churn rate?
 How much revenue is lost due to churn?
@@ -75,10 +76,10 @@ Usage vs revenue patterns
 📉 High churn rate (29.19%) indicates a significant customer retention issue
 💰 ₦58M revenue loss highlights the financial impact of churn
 ⚠️ Major churn drivers include:
-Fast data consumption
-High call tariffs
-Better competitor offers
-Poor network quality
+-Fast data consumption
+-High call tariffs
+-Better competitor offers
+-Poor network quality
 📊 Certain subscription plans contribute disproportionately to revenue loss
 🌍 Specific states (e.g., Benue, Plateau, Anambra) show higher churn-related losses
 ⏳ Early-tenure customers are more likely to churn, indicating onboarding issues
@@ -87,30 +88,29 @@ Business Recommendations
 Based on the analysis, the following strategic actions are recommended:
 
 1. Improve Network Quality in High-Risk Regions
-Focus infrastructure upgrades in states with the highest churn-related revenue loss
-Reduce complaints related to poor connectivity
+-Focus infrastructure upgrades in states with the highest churn-related revenue loss
+-Reduce complaints related to poor connectivity
 
-3. Optimize Pricing and Subscription Plans
+2. Optimize Pricing and Subscription Plans
 Review high-churn plans and adjust pricing structures
 Introduce flexible or bundled plans to improve value perception
 
-5. Strengthen Customer Retention for New Users
+3. Strengthen Customer Retention for New Users
 Implement onboarding programs for new customers (first 3–6 months)
 Offer incentives such as bonus data or discounts to improve early engagement
 
-7. Address Key Churn Drivers Directly
+4. Address Key Churn Drivers Directly
 Reduce data consumption issues through better plan design
 Improve customer service responsiveness
 Monitor competitor offerings and adjust strategies accordingly
 
-9. Target High-Value Customers at Risk
+5. Target High-Value Customers at Risk
 Identify customers with high revenue contribution who are likely to churn
 Implement personalized retention strategies (loyalty rewards, exclusive offers)
 
-11. Leverage Customer Feedback
+6. Leverage Customer Feedback
 Actively analyze customer reviews and complaints
 Use feedback loops to continuously improve service delivery
-
 
 
  Tools Used
