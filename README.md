@@ -87,29 +87,29 @@ Usage vs revenue patterns
 Business Recommendations
 Based on the analysis, the following strategic actions are recommended:
 
-1. Improve Network Quality in High-Risk Regions
--Focus infrastructure upgrades in states with the highest churn-related revenue loss
+1. Improve Network Quality in High-Risk Regions: 
+-Focus infrastructure upgrades in states with the highest churn-related revenue loss ||
 -Reduce complaints related to poor connectivity
 
-2. Optimize Pricing and Subscription Plans
-Review high-churn plans and adjust pricing structures
+2. Optimize Pricing and Subscription Plans: 
+Review high-churn plans and adjust pricing structures ||
 Introduce flexible or bundled plans to improve value perception
 
-3. Strengthen Customer Retention for New Users
-Implement onboarding programs for new customers (first 3–6 months)
+3. Strengthen Customer Retention for New Users: 
+Implement onboarding programs for new customers (first 3–6 months) ||
 Offer incentives such as bonus data or discounts to improve early engagement
 
-4. Address Key Churn Drivers Directly
-Reduce data consumption issues through better plan design
-Improve customer service responsiveness
+4. Address Key Churn Drivers Directly : 
+Reduce data consumption issues through better plan design || 
+Improve customer service responsiveness ||
 Monitor competitor offerings and adjust strategies accordingly
 
-5. Target High-Value Customers at Risk
-Identify customers with high revenue contribution who are likely to churn
+5. Target High-Value Customers at Risk :
+Identify customers with high revenue contribution who are likely to churn ||
 Implement personalized retention strategies (loyalty rewards, exclusive offers)
 
-6. Leverage Customer Feedback
-Actively analyze customer reviews and complaints
+6. Leverage Customer Feedback:
+Actively analyze customer reviews and complaints || 
 Use feedback loops to continuously improve service delivery
 
 
