@@ -122,6 +122,8 @@ Future Improvements:
 2. Perfrom advanced customer segregation (clustering)
 3. Extend analysis across multiple quarters for trend analysis.
 
+##Dashboard Preview
+![Overview](images/overview.png)
+![Revenue by State)](images/revenue_by_state.png)
+![Revenue by Plan](images/revenue_by_plan.png)
 
-
-F
