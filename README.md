@@ -123,11 +123,7 @@ Future Improvements:
 3. Extend analysis across multiple quarters for trend analysis.
 
 ##Dashboard Preview: --
-![Overview](mtn-churn-analysis
-/images/overview.png.png)
-![Revenue by State)](mtn-churn-analysis
-/images//revenue_lost_by_state.png.png)
-![Revenue by Plan](mtn-churn-analysis
-/images//revenue_lost_by_sub_plan.png.png)
-![Overview](mtn-churn-analysis
-/images//revenue_vs_tenure.png.png)
+![Overview](mtn-churn-analysis/images/overview.png.png)
+![Revenue by State)](mtn-churn-analysis/images//revenue_lost_by_state.png.png)
+![Revenue by Plan](mtn-churn-analysis/images//revenue_lost_by_sub_plan.png.png)
+![Overview](mtn-churn-analysis/images//revenue_vs_tenure.png.png)
