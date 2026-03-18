@@ -116,3 +116,12 @@ Use feedback loops to continuously improve service delivery
  Tools Used
 Excel → Data cleaning and preprocessing
 Microsoft Power BI → Data visualization and dashboard development
+
+Future Improvements:
+1. Build a machine learning model to predict customer churn
+2. Perfrom advanced customer segregation (clustering)
+3. Extend analysis across multiple quarters for trend analysis.
+
+
+
+F
